@@ -9,5 +9,7 @@ Welcome to my GitHub profile! I'm Abhishek Singh, a passionate coder and technol
 - Follow me on [<img src="https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter"/>](https://twitter.com/abhisheksing484/)
 - Follow me on [<img src="https://img.shields.io/badge/Instagram-Profile-blue?logo=instagram"/>](https://instagram.com/abhisheksingh_r_f/)
 - Visit my portfolio at [abhisheksinghf.netlify.app](https://abhisheksinghf.netlify.app/)
-  
+
+![](https://komarev.com/ghpvc/?username=abhisheksinghf&color=green)
+
 Let's connect and build awesome things together! 😊
