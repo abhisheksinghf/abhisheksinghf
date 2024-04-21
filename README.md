@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm Abhishek Singh, a passionate coder and technol
 
 ![Profile Screenshot](dark_name.png)
 
-🌟 Currently working on Backend Developement of Event Management System for our college fest Insignia`24
-
 🌟 Currently working on Placement Data and Analysis Project using Node.js
 
 📫 How to reach me:
