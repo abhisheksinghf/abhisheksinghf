@@ -6,6 +6,8 @@ Welcome to my GitHub profile! I'm Abhishek Singh, a passionate coder and technol
 
 🌟 Currently working on Placement Data and Analysis Project using Node.js
 
+Recently successfully completed Event Management System Project using PHP for our college fest and was executed successfully without any bugs, contributing to a s!  
+
 📫 How to reach me:
 - Connect with me on [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"/>](https://www.linkedin.com/in/abhisheksingh-fulanekar-17b965223)
 - Follow me on [<img src="https://img.shields.io/badge/Twitter-Profile-blue?logo=twitter"/>](https://twitter.com/abhisheksing484/)
