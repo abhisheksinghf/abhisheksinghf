@@ -47,11 +47,9 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height=32px> </h2>
 
 ### 🔥 &nbsp; My Stats :
-<div align="center">
-  ![abhisheksinghf's Stats](https://github-readme-stats.vercel.app/api?username=abhisheksinghf&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![abhisheksinghf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhisheksinghf&theme=dark&hide_border=true)
+  ![abhisheksinghf's Stats](https://github-readme-stats.vercel.app/api?username=abhisheksinghf&theme=dark&show_icons=true&hide_border=true&count_private=true)<br>
+  ![abhisheksinghf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhisheksinghf&theme=dark&hide_border=true)<br>
   ![abhisheksinghf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksinghf&theme=dark&show_icons=true&hide_border=true&layout=compact)
-</div>
 
 
 
