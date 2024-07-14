@@ -12,7 +12,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Grocery Delivery WebApp Project
+- 🔭 I’m currently working on Blockchain based voting system project
 
 - 🌱 I’m currently learning React, Redux, MongoDB 
 
