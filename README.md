@@ -12,9 +12,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Blockchain based voting system project
+- 🔭 I’m currently working on Improving my Competitive Coding Skills
 
-- 🌱 I’m currently learning React, Redux, MongoDB 
+- 🌱 I’m currently learning React, AI and Cloud Computing Technologies 
 
 - 👯 I’m looking to collaborate on Projects 
 
