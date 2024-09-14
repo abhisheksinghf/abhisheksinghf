@@ -21,23 +21,26 @@
 - 💬 Talk to me about Coding, Movies, Cricket 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
 
+
+ <table>
+  <tr><th>Languages</th> <th>Frameworks, Platforms & Databases </th><th>Softwares</th>
+  <tr>
+    <td>
+
+[![My Skills](https://skillicons.dev/icons?i=c,py,java,html,css,js&perline=3)](https://skillicons.dev)
+</td>
+
+ <td>
+ 
+ [![My Skills](https://skillicons.dev/icons?i=git,bootstrap,react,tailwind,express,postman,nodejs,mysql,selenium,mongodb,&perline=6)](https://skillicons.dev)
+    </td>
+ <td>
+ 
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,netlify,aws,figma,notion&perline=3)](https://skillicons.dev)
+ </td>
+    </tr>
+  </table>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/abhisheksingh-fulanekar-17b965223'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
