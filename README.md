@@ -33,7 +33,7 @@
 
  <td>
  
- [![My Skills](https://skillicons.dev/icons?i=git,bootstrap,react,tailwind,express,postman,nodejs,mysql,selenium,mongodb,&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=git,bootstrap,wordpress,react,tailwind,express,postman,nodejs,mysql,selenium,mongodb,&perline=6)](https://skillicons.dev)
     </td>
  <td>
  
