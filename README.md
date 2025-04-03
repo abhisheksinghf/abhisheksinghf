@@ -60,5 +60,7 @@
   ![abhisheksinghf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksinghf&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/abhisheksinghf?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 
