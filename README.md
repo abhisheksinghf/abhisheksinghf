@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Improving my Competitive Coding Skills
 
-- 🌱 I’m currently learning React, AI and Cloud Computing Technologies 
+- 🌱 I’m currently learning AI and Cloud Computing Technologies 
 
 - 👯 I’m looking to collaborate on Projects 
 
